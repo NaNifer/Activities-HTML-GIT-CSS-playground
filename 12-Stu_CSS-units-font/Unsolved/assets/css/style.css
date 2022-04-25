@@ -2,6 +2,8 @@
 .lesson {
     background-color: #fffacd;
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    height: 100px;
+    width: 600px;
 }
 
 /* Fact 1 */
