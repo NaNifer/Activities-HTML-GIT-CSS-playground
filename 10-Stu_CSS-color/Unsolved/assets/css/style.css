@@ -1,4 +1,10 @@
-.lesson {
+.container {
+  color: white;
+  background-color: black;
+
+  }
+  
+  .lesson {
     width: 200px;
     height: 100px;
   }
@@ -8,19 +14,11 @@
   color: orange;
 }
   
-.container {
-background-color: black;
-}
-
 #section-1 {
 color: yellow;
 background-color: purple;
 }
 
-#section-6 {
+.section-6 {
 color: yellow;
-}
-
-.container {
-  background: #000;
 }
