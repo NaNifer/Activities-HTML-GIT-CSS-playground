@@ -4,6 +4,12 @@
   height: 200px
 }
 
+.circle {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+
 .box-blue {
   /* Sets font color */
   color: white;
@@ -21,4 +27,9 @@
   /* Uses predefined colors to define color */
   color: purple;
   background-color: yellow;
-};
+}
+h2 {
+  text-align: center;
+  position: relative;
+  top: 80px;
+}
