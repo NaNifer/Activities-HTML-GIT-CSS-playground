@@ -10,7 +10,7 @@ section {
   width: 70%;
   /* Sets top and bottom margin to 20px. Auto will center element */
   margin: 20px auto;
-  border-bottom: 5px solid darkblue;
+  border: 5px solid darkblue;
   background-color: #ffffd4;
 }
 
@@ -31,7 +31,7 @@ h3 {
 
 .example-box {
   /* Shortcut method sets top and bottom padding to 20px and left and right to 40px */
-  padding: 20px 40px;
+  padding: 10px 40px;
 }
 
 .image-padding {

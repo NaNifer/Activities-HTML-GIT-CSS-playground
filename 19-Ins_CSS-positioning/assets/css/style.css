@@ -1,13 +1,15 @@
-h1,
-h2,
-h3 {
-  text-align: center;
-}
-
 header {
   width: 100%;
   border: 10px solid darkblue;
   background-color: lightblue;
+  z-index: 1;
+  position: fixed;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
 }
 
 section {
